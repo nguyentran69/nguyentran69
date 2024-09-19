@@ -1,6 +1,4 @@
-Tuyệt vời! Dưới đây là nội dung của trang web cá nhân với tiêu đề "Tình Yêu Vượt Thời Đại", cùng với một câu chuyện ngắn và phong cách thiết kế hiện đại pha lẫn cổ điển. 
 
-Dưới đây là mã HTML bạn có thể sử dụng:
 
 ```html
 <!DOCTYPE html>
@@ -52,5 +50,3 @@ Dưới đây là mã HTML bạn có thể sử dụng:
 </body>
 </html>
 ```
-
-Bạn có thể sao chép mã này vào một tệp có định dạng `.html` và mở nó trong trình duyệt để xem trang web của mình! Nếu bạn cần thay đổi gì thêm, cứ cho tôi biết nhé!
